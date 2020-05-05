@@ -1,0 +1,42 @@
+{
+    "name": "hotslug-pack",
+    "displayName": "hotslug-pack",
+    "description": "Dev pack.",
+    "version": "1.0.0",
+    "publisher": "hotslug",
+    "icon": "icon.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hotslug/hotslug-pack"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "nexxai.material-synthwave-vscode",
+        "LaurentTreguier.vscode-simple-icons",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "bierner.color-info",
+        "msjsdiag.debugger-for-chrome",
+        "mikestead.dotenv",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "dzannotti.vscode-babel-coloring",
+        "dbaeumer.vscode-eslint",
+        "firefox-devtools.vscode-firefox-debug",
+        "wix.vscode-import-cost",
+        "hoffs.vscode-versionlens",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "albert.tabout",
+        "chakrounanas.turbo-console-log"
+    ]
+}
